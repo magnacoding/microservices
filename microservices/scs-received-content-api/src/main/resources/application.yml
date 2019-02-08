@@ -1,0 +1,7 @@
+documentConfig:
+  appName: Imaging Document application
+  addDescription: ${documentConfig.appName} is a Document archival application using Spring Boot
+  adminFirtname: Inocencio
+  adminLastname: Richiez
+  adminEmail: irichiez@hotmail.com
+
